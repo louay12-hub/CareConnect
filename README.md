@@ -21,6 +21,7 @@ CareConnect/
 ├── frontend/
 ├── db.sql
 └── SeniorProject Report.docx
+```
 
 
 ## 🛠️ Technologies
@@ -30,14 +31,15 @@ CareConnect/
 
 ### Backend
 - Node.js
-- REST API
+- REST APIs
 
 ### Database
 - SQL Server
 
-### Development Tools
+### Tools
+- Git
+- GitHub
 - Visual Studio Code
-- Git & GitHub
 
 ## 🎯 Project Goal
 
@@ -54,7 +56,7 @@ The goal of CareConnect is to provide an integrated solution for managing hospit
 - Manage doctors and nurses
 - Manage equipment and services
 - Manage appointments
-- Handle hospital resources
+- Manage hospital resources
 
 ## 📌 Key Benefits
 
